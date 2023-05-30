@@ -86,4 +86,4 @@ async def help_me(ctx):
 
 print random.choice(os.listdir('images'))
 
-bot.run("MTEwNzIxMjk2ODQzMDY2NTgyOQ.G04gRS.uBV4kZVs-BFj4x5B9z1TfIwZXcE6OQQ8UIXxeQ")
+bot.run("token")
